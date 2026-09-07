@@ -1,4 +1,4 @@
-# Examen Enero 2023
+# January 2023 Exam
 
 <img src="../../images/cap6-2023-Enero-resuelto-1.png" width="800"/>
 
@@ -9,4 +9,3 @@
 <img src="../../images/cap6-2023-Enero-resuelto-4.png" width="800"/>
 
 <img src="../../images/cap6-2023-Enero-resuelto-5.png" width="800"/>
-

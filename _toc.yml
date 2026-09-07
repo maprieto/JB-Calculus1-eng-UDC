@@ -1,6 +1,6 @@
 format: jb-book
 root: chapters/README
-title: Introducción
+title: Introduction
 options:
  numbered: true
 chapters:
@@ -14,10 +14,10 @@ chapters:
       title: Complex numbers
 
 - file: chapters/02/README
-  title: Real functions of real variable
+  title: Real functions of a real variable
   sections: 
    - file: chapters/02/01.Boletin0
-     title: Boletin 0 
+     title: Worksheet 0 
    - file: chapters/02/02.IntroduccionFuncionReal
      title: Basic definitions 
    - file: chapters/02/03.FuncionesElementales
@@ -27,13 +27,13 @@ chapters:
    - file: chapters/02/05.Continuidad
      title: Continuity
    - file: chapters/02/06.Dicotomia
-     title: Bisection numerical method
+     title: Bisection method
    - file: chapters/02/07.Lagrange
      title: Lagrange interpolation polynomial
    - file: chapters/02/08.Boletin1
-     title: Boletin 1
+     title: Worksheet 1
    - file: chapters/02/09.Boletin2
-     title: Boletin 2
+     title: Worksheet 2
 
 - file: chapters/03/README_en
   title: Derivative

@@ -1,4 +1,4 @@
-# Examen Enero 2022
+# January 2022 Exam
 
 <img src="../../images/cap6-2022-Enero-1.png" width="800"/>
 
