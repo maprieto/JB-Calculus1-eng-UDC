@@ -1,3 +1,3 @@
-# Algunos problemas modelo totalmente resueltos con la ayuda de Python
+# Some fully solved model problems with the help of Python
 
-Incluimos en este capítulo la resolución de algunos problemas que deben servir de modelo para muchos otros de la asignatura.
+In this chapter we include the solution of several problems that should serve as models for many others in the course.

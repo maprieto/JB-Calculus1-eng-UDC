@@ -1,80 +1,79 @@
-# Prefacio: técnicas de resolución de problemas
+# Preface: problem-solving techniques
 
-Antes de nada, debemos indicar que no existen reglas rígidas para resolver un problema 
-matemático. Cada uno de ellos debe estudiarse por separado. Sin embargo, hay una serie
-de pasos que en algunos casos nos ayudan y en otros son imprescindibles para la
-resolución del problema.
-
-
-## Leer bien el problema.
-
-Debemos asegurarnos de que lo hemos comprendido con claridad. Debemos hacernos unas 
-preguntas:
-
-* ¿Cuál es la incógnita?
-* ¿Cuáles son las cantidades dadas?
-* ¿Cuáles son las condiciones dadas?
-
-Como sugerencia, a veces resulta útil dibujar un diagrama.
-
-Ahora, haciendo un esfuerzo de abstracción, **debemos introducir una notación 
-apropiada**. Es decir, debemos introducir un signo para las magnitudes desconocidas.
-Generalmente $x$, $y$ o $z$. A veces ayuda elegir la inicial, por ejemplo, $v$ para la
-velocidad, $t$ para el tiempo,...
-
-Esta etapa suele conducir a una formulación matemática del problema... siempre y 
-cuando no venga ya escrita en el enunciado.
-
-## Pensar un plan.
-
-¿Cómo puedo resolver el problema?  Hay algunos pasos que suelen ayudar:
-
-1. Intentamos reconocer algún patrón conocido. Es decir, intentamos clasificar el 
-    problema dentro de alguno de los temas que hemos \textit{aprendido} en la asignatura.
-
-    Una vez hecho esto intentamos recordar algunas cosas de ese tema. De qué armas 
-    disponemos para resolver el problema. Por ejemplo, si es una integral, >qué tipos de
-    integrales se han explicado en clase?
-
-2. Intentamos reconocer algo familiar, usar analogías.
-
-    Una vez que sabemos en qué tema está lo que nos preguntan, debemos intentar recordar 
-    si en clase hemos resuelto algo parecido. Los problemas de exámenes suelen ser parecidos
-    a cosas conocidas, sólo falta identificarlas.
-
-    A veces ayuda pasar de lo abstracto a lo concreto, o poner números más manejables.
+First of all, we should point out that there are no rigid rules for solving a mathematical
+problem. Each one must be studied separately. However, there is a series
+of steps that in some cases help us and in others are essential for the
+solution of the problem.
 
 
-3.  Debemos plantearnos metas intermedias.
+## Read the problem carefully.
 
-    No pretendamos resolver un problema directamente, todo a la vez. Vamos paso a paso. Si 
-    en algún momento nos atascamos, al menos ya tenemos parte resuelta, y siempre será
-    mejor que nada. Por ejemplo, si tenemos que representar gráficamente una función y
-    conocemos sus intervalos de crecimiento y decrecimiento, ya tenemos algo. Si luego no
-    somos capaces de calcular concavidad y convexidad... Bueno, al menos algo.
+We must make sure that we have understood it clearly. We should ask ourselves a few
+questions:
 
-    Muchas veces la resolución total de un problema es algo muy complejo, donde la parte 
-    final ya es **para nota**.
+* What is the unknown?
+* What are the given quantities?
+* What are the given conditions?
 
-## Llevar a cabo el plan.
+As a suggestion, it is sometimes useful to draw a diagram.
 
-No basta con pensar cómo hacerlo. ¡Hay que hacerlo!
+Now, making an effort of abstraction, **we must introduce appropriate
+notation**. That is, we must introduce a symbol for the unknown quantities.
+Usually $x$, $y$, or $z$. Sometimes it helps to choose the initial letter, for example, $v$ for
+velocity, $t$ for time,...
 
-## Revisar el resultado. 
+This stage usually leads to a mathematical formulation of the problem... provided that
+it is not already written in the statement.
 
-Debemos pensar si el resultado al que hemos llegado tiene sentido, tanto matemático 
-como lógico. Si nos pide que calculemos, por ejemplo, el precio óptimo de venta de un
-objeto, éste no podrá ser negativo. Cuando sea posible, debemos buscar algún modo de
-comprobar el resultado.
+## Think of a plan.
 
-Al revisar un problema resuelto, lo recordaremos mejor y será más fácil obtener 
-utilidad de él.
+How can I solve the problem? There are some steps that often help:
 
-## Escribirlo de forma que otra persona pueda entenderlo.
+1. We try to recognize a familiar pattern. That is, we try to classify the
+    problem within one of the topics we have \textit{learned} in the course.
 
-Lamentablemente, es insuficiente con resolver un problema. *Debemos mostrarlo*. 
-Pasar a limpio los ejercicios es importante, incluyendo todos los pasos claves para su
-resolución. El razonamiento debe ser claro y breve. *Nunca* debemos dar cosas por
-sabidas (**Es que pensé que tú ya te ibas a dar cuenta de que aquí lo que
-hacía era...**).
- 
+    Once this is done, we try to remember some things from that topic. Which tools
+    we have available to solve the problem. For example, if it is an integral, what types of
+    integrals have been explained in class?
+
+2. We try to recognize something familiar, to use analogies.
+
+    Once we know which topic the question belongs to, we should try to remember
+    whether we have solved something similar in class. Exam problems are usually similar
+    to things we already know; we just need to identify them.
+
+    Sometimes it helps to move from the abstract to the concrete, or to use simpler numbers.
+
+
+3.  We should set intermediate goals.
+
+    Let us not try to solve a problem directly, all at once. Let us go step by step. If
+    at some point we get stuck, at least we already have part of the work done, and that will always be
+    better than nothing. For example, if we have to graph a function and
+    we know its intervals of increase and decrease, we already have something. If later we are not
+    able to compute concavity and convexity... Well, at least we have something.
+
+    Very often the complete solution of a problem is something very complex, where the
+    final part is already **for top marks**.
+
+## Carry out the plan.
+
+It is not enough to think about how to do it. We have to do it!
+
+## Review the result.
+
+We should think about whether the result we have reached makes sense, both mathematically
+and logically. If we are asked to compute, for example, the optimal selling price of an
+object, it cannot be negative. Whenever possible, we should look for some way to
+check the result.
+
+Reviewing a solved problem helps us remember it better and makes it easier to get
+some use out of it.
+
+## Write it so that another person can understand it.
+
+Unfortunately, solving a problem is not enough. *We must show it*.
+Writing up the exercises neatly is important, including all the key steps in their
+solution. The reasoning should be clear and brief. *We should never* take things for granted
+(**I thought you would already realize that what I was
+doing here was...**).
