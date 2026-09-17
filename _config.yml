@@ -52,8 +52,10 @@ html:
 #######################################################################################
 # Launch button settings
 launch_buttons:
-  binderhub_url             : "https://mybinder.org"  # The URL of the BinderHub (e.g., https://mybinder.org)
-  notebook_interface        : "jupyterlab"
+  colab_url: "https://colab.research.google.com"
+  binderhub_url: "https://mybinder.org"  # The URL of the BinderHub (e.g., https://mybinder.org)
+  thebe: true
+  notebook_interface: "jupyterlab"
   
 repository:
    url                       : https://github.com/maprieto/JB-Calculus1-eng-UDC  # The URL to your book's repository
