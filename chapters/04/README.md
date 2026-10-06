@@ -2,7 +2,7 @@
 
 In this chapter we introduce integration for real-valued functions of one real variable and study its properties and some applications. 
 
-We divide it into seven sections (plus a problem set):
+We divide it into seven sections (plus a worksheet):
 
 1. Indefinite integration.
 2. Riemann integral.
