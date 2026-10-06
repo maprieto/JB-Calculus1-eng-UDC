@@ -51,7 +51,7 @@ chapters:
     - file: chapters/03/06.TaylorTheorem_en
       title: Taylor's theorem
     - file: chapters/03/07.Worksheet3_en
-      title: Boletin 3
+      title: Worksheet 3
    
 - file: chapters/04/README
   title: Integration
@@ -71,7 +71,7 @@ chapters:
     - file: chapters/04/07.DifferentialEquations
       title: Differential equations
     - file: chapters/04/08.Worksheet4
-      title: Boletin 4
+      title: Worksheet 4
 
 - file: chapters/05/README
   title: Python for Calculus in one variable
