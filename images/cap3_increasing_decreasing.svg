@@ -359,7 +359,7 @@
          id="tspan4864"
          style="stroke-width:0.18479"
          x="8.7604408"
-         y="100.74908">Creciente</tspan><tspan
+         y="100.74908">Increasing</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.18479"
          x="8.7604408"
@@ -376,7 +376,7 @@
          id="tspan15744"
          style="stroke-width:0.181057"
          x="122.2299"
-         y="85.40123">Decreciente</tspan><tspan
+         y="85.40123">Decreasing</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.181057"
          x="122.2299"
@@ -393,12 +393,12 @@
          id="tspan19356"
          style="stroke-width:0.176638"
          x="49.705898"
-         y="95.406708">Estrictamente</tspan><tspan
+         y="95.406708">Strictily</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.176638"
          x="49.705898"
          y="104.23859"
-         id="tspan19360">creciente</tspan></text>
+         id="tspan19360">increasing</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.98615px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174654"
@@ -410,11 +410,11 @@
          id="tspan20886"
          style="stroke-width:0.174654"
          x="145.27858"
-         y="96.871437">Estrictamente</tspan><tspan
+         y="96.871437">Strictily</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.174654"
          x="145.27858"
          y="105.60413"
-         id="tspan20892">decreciente</tspan></text>
+         id="tspan20892">decreasing</tspan></text>
   </g>
 </svg>
